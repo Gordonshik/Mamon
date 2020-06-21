@@ -1,0 +1,54 @@
+.navbar_btn {
+  background: #5528ff;
+  border-radius: 5px;
+  border:none;
+  width: 120px;
+}
+
+.main_header {
+margin-bottom: 5em;
+}
+
+.nav-item {
+    margin-left: 0.5em;
+}
+
+.logo {
+  margin-left: 0.5em;
+  margin-bottom: 0.625em;
+}
+
+.header_logo {
+  margin-top: 0.8em; 
+}
+
+
+@media (min-width: 575.98px) {
+  .header_logo {
+    display: none;
+  }
+
+  .navbar-nav {
+    margin-right: 2em;
+  }
+
+  .row_header {
+    margin-left: 1em;
+  }
+
+  .main_header {
+    margin-bottom: 2em;
+    }
+
+    
+}
+
+
+@media (min-width: 768px) {
+  .services_row {
+    margin-left: 3.5em;
+  }
+  .navbar-nav {
+    
+  }
+}

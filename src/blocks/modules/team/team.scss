@@ -1,0 +1,32 @@
+.col_team {
+  margin-bottom: 5rem;
+}
+
+.name { 
+  margin-bottom: 12px;
+}
+
+
+.content_h2 {
+  margin-top: -10px;
+  background-color: #fff;
+  width: 120px;
+  left: -10px;
+  text-align: center;
+}
+
+.wrap {
+  position: relative
+}
+
+@media (max-width: 576px) {
+  .col_team {
+    margin-bottom: 1em;
+  }
+}
+
+
+@media (min-width: 768px) {
+  
+  
+}
